@@ -1,4 +1,4 @@
-Vensen Sibanda's Portfolio
+## Vensen Sibanda's Portfolio
 
 Welcome to my personal portfolio — a dynamic, responsive, and animated React application showcasing my projects, experience, leadership, and goals as a Computer Science student passionate about AI, web development, and social impact.
 
