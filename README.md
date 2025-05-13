@@ -1,12 +1,109 @@
-# React + Vite
+Here’s a clean, professional, and impressive `README.md` tailored to your `Portfolio_new` project using **React**, **Vite**, **TailwindCSS**, and **Framer Motion** — deployed to **GitHub Pages**.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+---
 
-Currently, two official plugins are available:
+### ✅ `README.md` for `Portfolio_new`
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```md
+# 🧠 Vensen Sibanda's Portfolio
 
-## Expanding the ESLint configuration
+Welcome to my personal portfolio — a dynamic, responsive, and animated React application showcasing my projects, experience, leadership, and goals as a Computer Science student passionate about AI, web development, and social impact.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+[🌐 Live Site](https://Ven-Sib.github.io/Portfolio_new)
+
+---
+
+## 🚀 Tech Stack
+
+- ⚛️ **React** (w/ Vite for blazing-fast builds)
+- 🎨 **TailwindCSS** for utility-first styling
+- 🧠 **Framer Motion** for smooth animations
+- 🎯 **Lucide Icons** for modern SVG iconography
+- 📦 **GitHub Pages** for deployment
+
+---
+
+## 📂 Project Structure
+
+```
+
+Portfolio\_new/
+├── public/
+├── src/
+│   ├── components/    # Reusable sections (Hero, About, Projects, etc.)
+│   ├── assets/        # Images & icons
+│   └── App.jsx        # App entry point
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+
+````
+
+---
+
+## 📸 Features
+
+- ✨ Smooth entrance animations and transitions via Framer Motion
+- 💡 Scroll-based section navigation and reveal effects
+- 📱 Mobile-first responsive design
+- 🧭 Interactive components: project filtering, tabs, and hover effects
+- 🔗 Links to GitHub, LinkedIn, and resume
+
+---
+
+## 🛠️ Running Locally
+
+Clone the repo:
+
+```bash
+git clone https://github.com/Ven-Sib/Portfolio_new.git
+cd Portfolio_new
+npm install
+npm run dev
+````
+
+---
+
+## 📦 Deploy to GitHub Pages
+
+```bash
+npm run build
+npm run deploy
+```
+
+> Automatically builds and deploys to [https://Ven-Sib.github.io/Portfolio\_new](https://Ven-Sib.github.io/Portfolio_new)
+
+---
+
+## 🙋‍♂️ About Me
+
+I'm **Vensen Sibanda**, a Zimbabwean Computer Science student at Grambling State University, passionate about AI-powered technology, mentorship, and building tools that solve real-world challenges. I actively participate in campus leadership, tech competitions, and community tutoring initiatives.
+
+---
+
+## 📬 Contact
+
+Feel free to connect:
+
+* 📧 Email: [sibandavensen@gmail.com](mailto:sibandavensen@gmail.com)
+* 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+* 🧑‍💻 [GitHub](https://github.com/Ven-Sib)
+
+---
+
+## 🪪 License
+
+This project is open source and free to use under the [MIT License](LICENSE).
+
+```
+
+---
+
+Would you like me to:
+- Include a **GIF preview** of your site in the README?
+- Add **badges** for tools, status, etc.?
+- Generate a **`LICENSE`** file for MIT?
+
+Let me know — we can take this README all the way to 🔥.
+```
