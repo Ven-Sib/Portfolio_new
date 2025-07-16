@@ -1,12 +1,67 @@
-# React + Vite
+## Vensen Sibanda's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio — a dynamic, responsive, and animated React application showcasing my projects, experience, leadership, and goals as a Computer Science student passionate about AI, web development, and social impact.
 
-Currently, two official plugins are available:
+ **Live Site:** [https://Ven-Sib.github.io/Portfolio\_new](https://Ven-Sib.github.io/Portfolio_new)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* **React** (Vite-powered)
+* **TailwindCSS**
+* **Framer Motion** (for animation)
+* **Lucide Icons**
+* **GitHub Pages** (for deployment)
+
+---
+
+##  Folder Structure
+
+```
+Portfolio_new/
+├── public/
+├── src/
+│   ├── components/      # Hero, About, Projects, etc.
+│   ├── assets/          # Images and icons
+│   └── App.jsx
+├── vite.config.js
+├── package.json
+└── README.md
+```
+
+---
+
+##  Features
+
+* Smooth section entrance animations
+* Scroll-aware component interactions
+* Fully responsive for all screen sizes
+* Dynamic project filtering and tabbed content
+* Links to GitHub, LinkedIn, Resume, and more
+
+---
+
+##  Getting Started Locally
+
+Clone the repository and install dependencies:
+
+```bash
+git clone https://github.com/Ven-Sib/Portfolio_new.git
+cd Portfolio_new
+npm install
+npm run dev
+```
+
+---
+
+## Deploy to GitHub Pages
+
+To deploy:
+
+```bash
+npm run build
+npm run deploy
+```
+
+
