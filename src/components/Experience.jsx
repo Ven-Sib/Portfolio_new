@@ -82,24 +82,7 @@ export default function Experience() {
             {/* Experience Tab Content */}
             {activeTab === 'experience' && (
               <div className="space-y-8">
-                <div className="timeline-item">
-                  <div className="flex flex-col md:flex-row gap-4 bg-white p-6 rounded-lg shadow-md border-l-4 border-yellow-500 hover:shadow-lg transition-shadow">
-                    <div className="md:w-1/4">
-                      <span className="text-yellow-600 font-medium">Jun 2022 - Dec 2023</span>
-                      <h3 className="text-xl font-bold mt-1">Website Management Assistant</h3>
-                      <p className="text-gray-600">Khaya Montessori</p>
-                      <p className="text-gray-600">Bulawayo, Zimbabwe</p>
-                    </div>
-                    <div className="md:w-3/4">
-                      <ul className="list-disc ml-5 space-y-2 text-gray-700">
-                        <li>Managed and developed Khaya Montessori's website using HTML, CSS, JavaScript, and Django, optimizing backend and frontend features, implementing admin tools, and increasing site traffic by 20%.</li>
-                        <li>Implemented backend functionality using Django (Python), including dynamic content rendering, admin dashboard integration, and database management with PostgreSQL.</li>
-                        <li>Handled routine updates, bug fixes, and UI improvements based on staff feedback to enhance user experience.</li>
-                      </ul>
-                    </div>
-                  </div>
-                </div>
-
+                
                 <div className="timeline-item">
                   <div className="flex flex-col md:flex-row gap-4 bg-white p-6 rounded-lg shadow-md border-l-4 border-yellow-500 hover:shadow-lg transition-shadow">
                     <div className="md:w-1/4">
