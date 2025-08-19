@@ -20,7 +20,7 @@ const projects = [
     title: "Freshman Companion App",
     description: "Helping new students navigate college with mentorship, career tools, and campus tips.",
     tech: ["React", "Tailwind", "Firebase", "Django", "Framer Motion", "Django Rest framework and API integration"],
-    link: "https://youtu.be/sJugH1STHCQ",
+    link: https://youtu.be/4BoSDo6NI0c,
     featured: false,
   },
   {
